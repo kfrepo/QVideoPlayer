@@ -1,2 +1,2 @@
-# QPlayer
-QT C++ 实现播放器
+# QVideoPlayer
+QT5 C++ 实现视频播放器
